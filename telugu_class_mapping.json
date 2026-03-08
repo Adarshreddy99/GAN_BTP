@@ -1,0 +1,363 @@
+{
+    "0": {
+        "folder_name": "C05",
+        "char": "అ",
+        "unicode_hex": [
+            "U+C05"
+        ]
+    },
+    "1": {
+        "folder_name": "C05_C02",
+        "char": "అం",
+        "unicode_hex": [
+            "U+C05",
+            "U+C02"
+        ]
+    },
+    "2": {
+        "folder_name": "C05_C03",
+        "char": "అః",
+        "unicode_hex": [
+            "U+C05",
+            "U+C03"
+        ]
+    },
+    "3": {
+        "folder_name": "C06",
+        "char": "ఆ",
+        "unicode_hex": [
+            "U+C06"
+        ]
+    },
+    "4": {
+        "folder_name": "C07",
+        "char": "ఇ",
+        "unicode_hex": [
+            "U+C07"
+        ]
+    },
+    "5": {
+        "folder_name": "C08",
+        "char": "ఈ",
+        "unicode_hex": [
+            "U+C08"
+        ]
+    },
+    "6": {
+        "folder_name": "C09",
+        "char": "ఉ",
+        "unicode_hex": [
+            "U+C09"
+        ]
+    },
+    "7": {
+        "folder_name": "C0A",
+        "char": "ఊ",
+        "unicode_hex": [
+            "U+C0A"
+        ]
+    },
+    "8": {
+        "folder_name": "C0B",
+        "char": "ఋ",
+        "unicode_hex": [
+            "U+C0B"
+        ]
+    },
+    "9": {
+        "folder_name": "C0E",
+        "char": "ఎ",
+        "unicode_hex": [
+            "U+C0E"
+        ]
+    },
+    "10": {
+        "folder_name": "C0F",
+        "char": "ఏ",
+        "unicode_hex": [
+            "U+C0F"
+        ]
+    },
+    "11": {
+        "folder_name": "C10",
+        "char": "ఐ",
+        "unicode_hex": [
+            "U+C10"
+        ]
+    },
+    "12": {
+        "folder_name": "C12",
+        "char": "ఒ",
+        "unicode_hex": [
+            "U+C12"
+        ]
+    },
+    "13": {
+        "folder_name": "C13",
+        "char": "ఓ",
+        "unicode_hex": [
+            "U+C13"
+        ]
+    },
+    "14": {
+        "folder_name": "C14",
+        "char": "ఔ",
+        "unicode_hex": [
+            "U+C14"
+        ]
+    },
+    "15": {
+        "folder_name": "C15",
+        "char": "క",
+        "unicode_hex": [
+            "U+C15"
+        ]
+    },
+    "16": {
+        "folder_name": "C15_C4D_C37",
+        "char": "క్ష",
+        "unicode_hex": [
+            "U+C15",
+            "U+C4D",
+            "U+C37"
+        ]
+    },
+    "17": {
+        "folder_name": "C16",
+        "char": "ఖ",
+        "unicode_hex": [
+            "U+C16"
+        ]
+    },
+    "18": {
+        "folder_name": "C17",
+        "char": "గ",
+        "unicode_hex": [
+            "U+C17"
+        ]
+    },
+    "19": {
+        "folder_name": "C18",
+        "char": "ఘ",
+        "unicode_hex": [
+            "U+C18"
+        ]
+    },
+    "20": {
+        "folder_name": "C19",
+        "char": "ఙ",
+        "unicode_hex": [
+            "U+C19"
+        ]
+    },
+    "21": {
+        "folder_name": "C1A",
+        "char": "చ",
+        "unicode_hex": [
+            "U+C1A"
+        ]
+    },
+    "22": {
+        "folder_name": "C1B",
+        "char": "ఛ",
+        "unicode_hex": [
+            "U+C1B"
+        ]
+    },
+    "23": {
+        "folder_name": "C1C",
+        "char": "జ",
+        "unicode_hex": [
+            "U+C1C"
+        ]
+    },
+    "24": {
+        "folder_name": "C1D",
+        "char": "ఝ",
+        "unicode_hex": [
+            "U+C1D"
+        ]
+    },
+    "25": {
+        "folder_name": "C1E",
+        "char": "ఞ",
+        "unicode_hex": [
+            "U+C1E"
+        ]
+    },
+    "26": {
+        "folder_name": "C1F",
+        "char": "ట",
+        "unicode_hex": [
+            "U+C1F"
+        ]
+    },
+    "27": {
+        "folder_name": "C20",
+        "char": "ఠ",
+        "unicode_hex": [
+            "U+C20"
+        ]
+    },
+    "28": {
+        "folder_name": "C21",
+        "char": "డ",
+        "unicode_hex": [
+            "U+C21"
+        ]
+    },
+    "29": {
+        "folder_name": "C22",
+        "char": "ఢ",
+        "unicode_hex": [
+            "U+C22"
+        ]
+    },
+    "30": {
+        "folder_name": "C23",
+        "char": "ణ",
+        "unicode_hex": [
+            "U+C23"
+        ]
+    },
+    "31": {
+        "folder_name": "C24",
+        "char": "త",
+        "unicode_hex": [
+            "U+C24"
+        ]
+    },
+    "32": {
+        "folder_name": "C25",
+        "char": "థ",
+        "unicode_hex": [
+            "U+C25"
+        ]
+    },
+    "33": {
+        "folder_name": "C26",
+        "char": "ద",
+        "unicode_hex": [
+            "U+C26"
+        ]
+    },
+    "34": {
+        "folder_name": "C27",
+        "char": "ధ",
+        "unicode_hex": [
+            "U+C27"
+        ]
+    },
+    "35": {
+        "folder_name": "C28",
+        "char": "న",
+        "unicode_hex": [
+            "U+C28"
+        ]
+    },
+    "36": {
+        "folder_name": "C2A",
+        "char": "ప",
+        "unicode_hex": [
+            "U+C2A"
+        ]
+    },
+    "37": {
+        "folder_name": "C2B",
+        "char": "ఫ",
+        "unicode_hex": [
+            "U+C2B"
+        ]
+    },
+    "38": {
+        "folder_name": "C2C",
+        "char": "బ",
+        "unicode_hex": [
+            "U+C2C"
+        ]
+    },
+    "39": {
+        "folder_name": "C2D",
+        "char": "భ",
+        "unicode_hex": [
+            "U+C2D"
+        ]
+    },
+    "40": {
+        "folder_name": "C2E",
+        "char": "మ",
+        "unicode_hex": [
+            "U+C2E"
+        ]
+    },
+    "41": {
+        "folder_name": "C2F",
+        "char": "య",
+        "unicode_hex": [
+            "U+C2F"
+        ]
+    },
+    "42": {
+        "folder_name": "C30",
+        "char": "ర",
+        "unicode_hex": [
+            "U+C30"
+        ]
+    },
+    "43": {
+        "folder_name": "C31",
+        "char": "ఱ",
+        "unicode_hex": [
+            "U+C31"
+        ]
+    },
+    "44": {
+        "folder_name": "C32",
+        "char": "ల",
+        "unicode_hex": [
+            "U+C32"
+        ]
+    },
+    "45": {
+        "folder_name": "C33",
+        "char": "ళ",
+        "unicode_hex": [
+            "U+C33"
+        ]
+    },
+    "46": {
+        "folder_name": "C35",
+        "char": "వ",
+        "unicode_hex": [
+            "U+C35"
+        ]
+    },
+    "47": {
+        "folder_name": "C36",
+        "char": "శ",
+        "unicode_hex": [
+            "U+C36"
+        ]
+    },
+    "48": {
+        "folder_name": "C37",
+        "char": "ష",
+        "unicode_hex": [
+            "U+C37"
+        ]
+    },
+    "49": {
+        "folder_name": "C38",
+        "char": "స",
+        "unicode_hex": [
+            "U+C38"
+        ]
+    },
+    "50": {
+        "folder_name": "C39",
+        "char": "హ",
+        "unicode_hex": [
+            "U+C39"
+        ]
+    }
+}
